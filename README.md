@@ -6,4 +6,6 @@ Just another repository
 %%  2015-2016 Peking University -- College of Engineering -- Department of Mechanics and Engineering Science -- Fulid Mechanics [R.A.]
 %%  2016-NOW  Chinese University of Hong Kong--Faculty of Engineering--Department of Mechanical and Automation Engineering [Ph.D. Stu.] 
 
-%%  My interesting focus on the robotics control and design.
+%%  My interesting focuses on the robotics control and design.
+%%  If you have any questions, please feel free to contact me. Thank you!
+%%  Here is my email: zzq0551@foxmail.com 
