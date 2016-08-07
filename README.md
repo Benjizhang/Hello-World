@@ -8,4 +8,4 @@ Just another repository
 
 %%  My interesting focuses on the robotics control and design.
 %%  If you have any questions, please feel free to contact me. Thank you!
-%%  Here is my email: zzq0551@foxmail.com 
+%%  Here is my email: zzq0551@foxmail.com & zeqing_zhang@pku.edu.cn
